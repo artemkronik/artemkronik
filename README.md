@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @artyomkronik
 - 👀 I’m experienced Frontend Developer
-- 🌱 I’m working as Frontend Developer at atmos
-- 📫 How to reach me @artiomkronik, arttemkron@gmail.com
+- 🌱 I’m working as Full Stack Developer at plannter
+- 📫 How to reach me @artiomkronik, artiomkronik@gmail.com
 
